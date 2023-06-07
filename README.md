@@ -1,4 +1,11 @@
-# Qwik City App ⚡️
+# Example Integrating Builder Sections with Qwik
+
+This example follows the Builder [Integrating Sections](https://www.builder.io/c/docs/integrate-section-building) doc.
+
+1. Replace the API Key with your own [Builder Public API key](https://www.builder.io/c/docs/using-your-api-key#finding-your-public-api-key).
+1. Follow the [Integrating Sections](https://www.builder.io/c/docs/integrate-section-building) doc to create the Announcement Bar section (model and content entry).
+
+## Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
